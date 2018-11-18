@@ -1,2 +1,2 @@
-# MPM-postprocesser
+# MPM-postprocessor
 Post processor for MPM
